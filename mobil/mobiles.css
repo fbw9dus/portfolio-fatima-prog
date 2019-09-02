@@ -1,4 +1,6 @@
+*{text-align: center;
 
+}
 body 
 {
 color:rgb(68, 66, 66);
@@ -121,8 +123,8 @@ h3{
     width: 100%;
 height: 400px;
 background: rgba(71, 124, 73, 0.438);
-padding-top: 10px;
-margin-top: 40px;
+padding-top: 30px;
+
 }
 .teil1 a{
     display: block;
@@ -140,11 +142,11 @@ margin-top: 40px;
     height: 900px;
     background: rgba(71, 124, 73, 0.438);
     padding-top: 10px;
-    margin-top: 50px;
+  
 
 }
-.teil2 img{ width: 500px;
-    height: 600px;
+.teil2 img{ width: 100%;
+    
 
 }
 .teil2 a{
@@ -166,8 +168,8 @@ margin-top: 40px;
 .teil3 {width: 100%;
     height: 650px;
     background: rgba(71, 124, 73, 0.438);
-    padding-top: 10px;
-    margin-top: 50px;
+    padding-top: 80px;
+    
 
 }
 
@@ -189,10 +191,20 @@ margin-top: 40px;
     height: 500px;
     background: rgba(71, 124, 73, 0.438);
     padding-top: 10px;
-    margin-top: 50px;
+   
 
 
 }
+
+a{
+    text-decoration: none;
+    
+}
+.teil4 li a{
+    
+    color:white;
+}
+
 .teil4 li{
     
     text-decoration: none;
@@ -210,6 +222,9 @@ margin-top: 40px;
     margin-right: 20px;
     margin-left: 20px;
 }
+
+
+
 .teil3 .wert1{
     width: 300px;
     height: 10px;
