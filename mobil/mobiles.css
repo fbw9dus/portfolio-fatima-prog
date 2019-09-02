@@ -1,0 +1,248 @@
+
+body 
+{
+color:rgb(68, 66, 66);
+
+
+text-align:center;
+background-image:url("schultter.jpg");
+background-repeat:no-repeat;
+background-size:100%;
+margin: 0%;
+letter-spacing: 1.5px;
+
+
+}
+header{width: 100%;
+
+    height: 80px;
+    background: rgba(255, 255, 255, 0.671);
+    position: fixed;
+    top:0px;
+    color:grey;
+    text-align: center;
+  
+    padding:auto;
+
+font-family: 'Lexend Zetta', sans-serif;
+}
+
+
+.foto img{
+    
+    
+  
+  margin-top: 180px;
+
+  
+    width: 250px;
+    height: 250px;
+    
+    border-radius: 50%; /* the magic */
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+
+
+
+    font-weight: 700;
+    
+  }
+
+
+
+
+
+
+header a{
+
+    text-decoration: none;
+    margin-right:50px;
+}
+.menu
+    {width: 100%;
+    height: 170px;
+
+
+    margin-top: 40px;
+    padding-top: 10px;
+
+
+    background: rgba(255, 255, 255, 0.671);
+     text-transform: capitalize;   
+}
+
+ul {
+    list-style-type: none;
+
+    margin:auto;
+    width: 300px;
+    
+    
+
+  }
+
+  
+
+.menu  li a {
+    display: block;
+    color: #000;
+    
+    text-decoration: none;
+    background: rgb(143, 136, 136);
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+  
+  }
+  
+.menu li a:active{
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+.menu li a:hover{
+    background-color: #555;
+    color: white;
+  }
+
+
+
+
+
+h2{
+    margin-top: 60px;
+    text-transform: capitalize;
+    color: black;
+}
+h3{
+    text-transform: capitalize;
+}
+.teil1{
+    width: 100%;
+height: 400px;
+background: rgba(71, 124, 73, 0.438);
+padding-top: 10px;
+margin-top: 40px;
+}
+.teil1 a{
+    display: block;
+    text-decoration: none;
+    color:white;
+    text-transform: capitalize;
+    background-color: rgba(116, 85, 8, 0.966);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.teil2 {width: 100%;
+    height: 900px;
+    background: rgba(71, 124, 73, 0.438);
+    padding-top: 10px;
+    margin-top: 50px;
+
+}
+.teil2 img{ width: 500px;
+    height: 600px;
+
+}
+.teil2 a{
+    display: block;
+    text-decoration: none;
+    color:white;
+    text-transform: capitalize;
+    background-color: rgba(116, 85, 8, 0.966);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+    
+
+
+    
+
+}
+
+.teil3 {width: 100%;
+    height: 650px;
+    background: rgba(71, 124, 73, 0.438);
+    padding-top: 10px;
+    margin-top: 50px;
+
+}
+
+
+
+.teil3 li{
+    
+    text-decoration: none;
+    color:white;
+    text-transform: capitalize;
+    background-color: rgba(116, 85, 8, 0.966);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+
+.teil4 {width: 100%;
+    height: 500px;
+    background: rgba(71, 124, 73, 0.438);
+    padding-top: 10px;
+    margin-top: 50px;
+
+
+}
+.teil4 li{
+    
+    text-decoration: none;
+    color:white;
+    text-transform: capitalize;
+    background-color: rgba(116, 85, 8, 0.966);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    justify-content: space-between;
+    
+}
+.teil4 li img{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.teil3 .wert1{
+    width: 300px;
+    height: 10px;
+    border:2px solid;
+    border-radius: 10px;
+}
+.teil3 .wert1 #wert1{
+    width: 180px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #4CAF50;
+}
+.teil3 .wert2{
+    width: 300px;
+    height: 10px;
+    border:2px solid;
+    border-radius: 10px;
+}
+.teil3 .wert2 #wert2{
+    width: 100px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #4CAF50;
+}
+.teil3 .wert3{
+    width: 300px;
+    height: 10px;
+    border:2px solid;
+    border-radius: 10px;
+}
+.teil3 .wert3 #wert3{
+    width: 150px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #4CAF50;
+}

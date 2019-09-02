@@ -1,0 +1,160 @@
+
+*{
+    margin:0px;
+}
+body
+{
+
+text-align:center;
+background:grey;
+
+
+
+}
+.container{
+    width: 800px;
+    height: 750px;
+    background: rgba(128, 128, 128, 0.562);
+    margin: auto;
+    padding-top: 30px;
+}
+.header{
+    width: 700px;
+    height: 50px;
+    background: rgb(44, 43, 43);
+    color:white;
+    margin-left: 50px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    
+}
+h1{font-family: 'Lexend Peta', sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+    padding-right: 130px;
+    padding-left: 10px;
+
+}
+
+
+
+.header div a{
+    background: rgb(92, 89, 89);
+    width: 150px;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    color:white;
+    
+    letter-spacing: 1.5px;
+    margin-top: -5px;
+ 
+}
+
+.header div a:hover {
+        background-color:green;
+        color:goldenrod;
+        
+      }
+      
+.header div a:active {
+        background-color: red;
+        color: white;
+      }
+
+
+
+
+.teil1{
+    width: 700px;
+    height: 240px;
+    background: rgba(99, 109, 204, 0.349);
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    padding-top: 20px;
+    
+
+}
+
+.teil2{
+    width: 700px;
+    height: 220px;
+    background:  rgba(99, 109, 204, 0.349);
+    margin-left: 50px;
+
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    padding-top: 20px;
+    line-height: 15px;
+
+}
+.teil3{
+    width: 700px;
+    height: 370px;
+    background:  rgba(99, 109, 204, 0.349);
+    margin-left: 50px;
+
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    padding-top: 20px;
+
+    line-height: 15px;
+}
+.teil4{
+    width: 700px;
+    height: 180px;
+    background:  rgba(99, 109, 204, 0.349);
+    margin-left: 50px;
+
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    padding-top: 20px;
+
+
+}
+.teil5{
+    width: 700px;
+    height: 440px;
+    background:  rgba(99, 109, 204, 0.349);
+    margin-left: 50px;
+
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    padding-top: 20px;
+
+}
+h2{
+    text-align: left;
+    text-transform: capitalize;
+    font-size: 20px;
+    text-indent: 10px;
+}
+ul{
+    text-align: justify;
+    padding-left: 30px;
+    line-height: 20px;
+}
+li{
+    text-transform: capitalize;
+}
+p{
+    padding-left: 200px;
+}
+
+.footer{ width: 700px;
+    height: 30px;
+    background: rgb(44, 43, 43);
+    color:white;
+    margin-left: 50px;
+    padding-top: 10px;
+    text-align: center;
+
+}
